@@ -7,3 +7,4 @@ Sending customized emails for jobs!
 - output emails in column 5
 
 Written by Juliet Sostena (Stanford '27)
+Uploaded to GitHub by Matt Krasnow
